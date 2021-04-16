@@ -1,7 +1,9 @@
 ﻿# 最大子列和
 ---
 ![EN][1]
+
 ![CH][2]
+
   [1]: https://github.com/HaloAncy/DS-ALGO_Practice/blob/main/Maximum%20Subsequence%20Sum/1.png
   [2]: https://github.com/HaloAncy/DS-ALGO_Practice/blob/main/Maximum%20Subsequence%20Sum/2.png
   
